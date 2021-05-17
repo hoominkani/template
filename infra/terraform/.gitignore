@@ -1,0 +1,7 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+.terraform/plugins/*
+.env
+/.idea/
+/.idea/workspace.xml
